@@ -1,15 +1,5 @@
-# Archive Site
-
-画像アーカイブサイト
-
-## GitHub Pagesでのホスティング手順
-
-1. このリポジトリをGitHubにプッシュ
-2. リポジトリの Settings > Pages に移動
-3. Source で「Deploy from a branch」を選択
-4. Branch で「main」（または「master」）を選択し、`/ (root)` を選択
-5. Save をクリック
-6. 数分後に `https://[ユーザー名].github.io/[リポジトリ名]/` でアクセス可能になります
+# APPROSE
+架空のコスメブランド
 
 ## QRコードの生成
 
